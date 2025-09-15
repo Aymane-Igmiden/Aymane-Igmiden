@@ -33,13 +33,5 @@ A **FULL-STACK SOFTWARE ENGINEER** 🚀 | Distributed Systems | Cloud & AI Enthu
 
 ---
 
-### GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aymane-Igmiden&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple" alt="Aymane's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymane-Igmiden&count_private=true&theme=radical" alt="Aymane's Streak">
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Igmiden&count_private=true&theme=radical" alt="Top Languages">
-
----
-
 **Strengths & Approach:**  
-I leverage my **CliftonStrengths** — Ideation, Activator, Strategic, Futuristic, Focus — to design scalable systems, take initiative, and deliver high-impact results efficiently.
+I leverage my **[CliftonStrengths](https://www.gallup.com/cliftonstrengths/en/403127/cliftonstrengths-34-report.aspx)** — Ideation, Activator, Strategic, Futuristic, Focus — to design scalable systems, take initiative, and deliver high-impact results efficiently.
